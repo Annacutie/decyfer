@@ -46,7 +46,8 @@ background-color: grey;
   transition: all 0.3s;
 }
 .title{
-color:#2e82ff
+color:#2e82ff;
+font-size:500%;
 }
 .purple{
   color:purple;
